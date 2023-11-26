@@ -1,0 +1,170 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: 'Playfair Display SC', serif;
+}
+/* home */
+.bar{
+    /* background-color: rgb(255, 255, 255); */
+    width: 40px;
+    height: 200px;
+    position: fixed;
+    right:  0%;
+    top: 50%;
+    border: 1px;
+    border-radius: 6px;
+}
+.bar img{
+    width: 40px;
+}
+.home{
+    background-image: url(imges/full-6.jpg);
+    height: 100vh;background-size: 100% 100%;
+    text-align: center;
+    color: fff;
+    margin-bottom: 100px;
+    
+}
+.home h1{
+    padding-top: 170px;
+    font-size: 60px;
+    padding-bottom: 20px;
+
+}
+.home p{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.92);
+    padding-bottom: 20px;
+}
+.home button{
+    border: 2px;
+    padding: 15px 20px ;
+    border-radius: 5px;
+    background-color: burlywood;
+}
+.home .logo img{
+    padding-right:  1090px;
+    width: 200px;
+    padding-top: 70px;
+    position: relative;
+    bottom: 40px;
+}
+/* Second section */
+.titel{
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.titel h2{
+    padding-bottom: 30px;
+    font-size: 28px;
+}
+.titel p{
+    font-size: 20px;
+}
+/* Section Three */
+.parent{
+    overflow: hidden;
+}
+.child{
+    width: 25%;
+    float: left;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.parent .child img{
+    width: 100%;
+}
+.parent .child h3{
+    padding-top: 10px;
+    font-size: 20px;
+}
+.parent .child p{
+    padding-top: 10px;
+    font-size: 20px;
+}
+/* Section Four */
+.buton{
+    margin-left: 50%;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.buton button{
+    padding: 15px 20px;
+    background-color: tan;
+    border: 2px;
+}
+.home2{
+    overflow: hidden;
+}
+.child2{
+    width: 40%;
+    float: left;
+    margin: 50px;
+}
+.home2 .child2 img{
+    width: 100%;
+   
+}
+.home2 .child2 h2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.home2 .child2 button{
+    position: relative;
+    right: 40px;
+    top: 20px   ;
+}
+.parent3{
+    overflow: hidden;
+}
+.child3{
+    width: 40%;
+    float: left;
+    margin: 50px;
+
+}
+.parent3 .child3 img{
+    width: 100%;
+}
+.parent3 .child3 h2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parent4 .child6 img{
+    width: 50px;
+
+}
+.child4 img{
+    width: 50px;
+    display: block;
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+}
+.child5{
+    position: relative;
+    left: 100px;
+    bottom: 300px;
+
+
+}
+.mahmoud1{
+    position: relative;
+    bottom: 110px;
+}
+.mahmoud2{
+    position: relative;
+    bottom: 85px;
+}
+.mahmoud3{
+    position: relative;
+    bottom: 60px;
+}
+.mahmoud4{
+    position: relative;
+    bottom: 35px;
+}
